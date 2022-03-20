@@ -10,7 +10,7 @@
 <p>link the <strong>pie.css</strong> to the page</p>
 &lt;link rel="stylesheet" type="text/css" href="Your directory path/pie.css"&gt;
 <h2>Generate Pie Chart</h2>
-&lt;div class="example"&gt;<br>
+&lt;div class="pie-panel"&gt;<br>
   &lt;div class="pie" data-value="30"&gt;&lt;/div&gt;<br>
 &lt;/div&gt;
 <div><strong>Result<strong></div>

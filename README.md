@@ -13,7 +13,7 @@
 &lt;div class="pie-panel"&gt;<br>
   &lt;div class="pie" data-value="30"&gt;&lt;/div&gt;<br>
 &lt;/div&gt;
-<div><strong>Result<strong></div>
+<div><strong>Result</strong></div>
 <img src="https://user-images.githubusercontent.com/14062867/159157377-2dbb7181-a503-4d8f-8e44-61a3c1821e6c.png">
 <h2>Generate Doughnut Chart</h2>
 &lt;div class="pie-panel"&gt;<br>
@@ -22,7 +22,7 @@
   	&lt;/div&gt;<br>
   &lt;/div&gt;<br>
 &lt;/div&gt;<br>
-  <div><strong>Result<strong></div>
+  <div><strong>Result</strong></div>
   <img src="https://user-images.githubusercontent.com/14062867/159157761-96eb004f-2386-481a-9e6b-c5a12edf7bb8.png">
 <h2>The pie-reverse class</h2>
 &lt;div class="pie-panel"&gt;<br>
@@ -33,7 +33,7 @@
   &lt;div class="pie-reverse" data-value="70"&gt;<br>
   &lt;/div&gt;<br>
 &lt;/div&gt;<br>
-  <div><strong>Result<strong></div>
+  <div><strong>Result</strong></div>
   <img src="https://user-images.githubusercontent.com/14062867/159158022-5f052746-3118-4c64-b228-c12acb542f98.png">
 <h2>Size</h2>
 &lt;div class="pie-panel"&gt;<br>
@@ -46,7 +46,7 @@
   	&lt;/div&gt;<br>
   &lt;/div&gt;<br>
 &lt;/div&gt;<br>
-  <div><strong>Sample Result<strong></div>
+  <div><strong>Sample Result</strong></div>
   <img src="https://user-images.githubusercontent.com/14062867/159158270-c1ee4652-a384-4123-b85f-296a99d201bb.png">
     <p>The size attribute ranges from <strong>0 to 2000</strong></p>
     <p>The data-value attribute ranges from <strong>0 to 100</strong></p>

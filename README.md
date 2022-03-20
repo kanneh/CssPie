@@ -1,4 +1,4 @@
-# CssPie
+# Css Progress Circle
 ![css pie logo1](https://user-images.githubusercontent.com/14062867/159156817-acd37687-7b80-49ee-b6f0-8bca7f7a5a7d.png)
 
 ![css pie logo](https://user-images.githubusercontent.com/14062867/159156583-fa3b16af-8c52-47b0-afba-c2f9a9249c6a.png)
@@ -9,13 +9,13 @@
 <h1>Usage</h1>
 <p>link the <strong>pie.css</strong> to the page</p>
 &lt;link rel="stylesheet" type="text/css" href="Your directory path/pie.css"&gt;
-<h2>Generate Pie Chart</h2>
+<h2>Generate Progress pie</h2>
 &lt;div class="pie-panel"&gt;<br>
   &lt;div class="pie" data-value="30"&gt;&lt;/div&gt;<br>
 &lt;/div&gt;
 <div><strong>Result</strong></div>
 <img src="https://user-images.githubusercontent.com/14062867/159157377-2dbb7181-a503-4d8f-8e44-61a3c1821e6c.png">
-<h2>Generate Doughnut Chart</h2>
+<h2>Generate Progress Circle</h2>
 &lt;div class="pie-panel"&gt;<br>
   &lt;div class="pie" data-value="30"&gt;<br>
   	&lt;div class="pie-doughnut"&gt;<br>
